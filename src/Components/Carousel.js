@@ -13,7 +13,7 @@ function IndividualIntervalsExample() {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={500}>
-        <ExampleCarouselImage src = "logo192.png" text="Second slide" />
+        <ExampleCarouselImage src = "logo512.png" text="Second slide" />
         <Carousel.Caption>
           <h3>Second slide label</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
