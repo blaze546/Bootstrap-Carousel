@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import IndividualIntervalsExample from './Components/Carousel';
+import CollapsibleExample from './Components/Navbar';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <CollapsibleExample />
       <IndividualIntervalsExample />
     </div>
   );
